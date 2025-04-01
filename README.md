@@ -54,7 +54,7 @@ Follow these steps to run the game on your local machine:
 1. **Clone or download** the project repository to your computer.
     - If you're using Git, you can run: 
       ```bash
-      git clone <repository-url>
+      git clone https://github.com/deshinenikarthik/JavaScript_Project.git
       ```
     - Or simply download the ZIP file from the repository.
    
